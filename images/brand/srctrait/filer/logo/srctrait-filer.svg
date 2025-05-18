@@ -1,0 +1,39 @@
+<!--
+SrcTrait Filer Logo
+Copyright (C) 2025 Asmov LLC
+All rights reserved.
+-->
+<svg
+    version="1.1" xmlns="http://www.w3.org/2000/svg"
+    width="800" height="800"
+    viewBox="0 0 800 800" >
+<style>
+    svg {
+        stroke: black;
+        fill: black;
+    }
+
+    @media (prefers-color-scheme: dark) {
+        svg {
+            stroke: #9aa0a6;
+            fill: #9aa0a6;
+        }
+    }
+
+    @media (prefers-color-scheme: light) {
+        svg {
+            stroke: black;
+            fill: black;
+        }
+    }
+
+    text {
+        stroke: none;
+        font-family: sans-serif;
+        font-size: 480px;
+    }
+</style>
+
+<text x="-20" y="550">&#x1207E;</text>
+
+</svg>
